@@ -36,7 +36,7 @@ export const Footer = () => {
             <Link href="/" className="inline-flex mb-5">
               <img
                 src={logoImage.src}
-                alt="W・H株式会社 ロゴ"
+                alt="株式会社W・H ロゴ"
                 className="h-10 md:h-12 w-auto"
               />
             </Link>

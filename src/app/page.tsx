@@ -84,7 +84,7 @@ export default function Home() {
                   つなぐ。
                 </h2>
                 <p className="text-foreground/75 leading-loose text-[15px] max-w-xl mb-8">
-                  私たちW・H株式会社は、全国の生産者の皆さまと飲食・小売・加工業のお客様をつなぐ、産直流通・カット野菜の専門会社です。
+                  私たち株式会社W・Hは、全国の生産者の皆さまと飲食・小売・加工業のお客様をつなぐ、産直流通・カット野菜の専門会社です。
                 </p>
                 <Button asChild variant="outline" className="rounded-none border-foreground hover:bg-foreground hover:text-primary-foreground tracking-[0.15em] uppercase text-xs h-12 px-6 group">
                   <Link href="/about">

@@ -8,7 +8,7 @@ import { useReveal } from "@/hooks/use-reveal";
 import pageHeroAccess from "@/assets/page-hero-access.jpg";
 
 const companyInfo = [
-  { label: "会社名", value: "W・H株式会社 (W・H Inc.)" },
+  { label: "会社名", value: "株式会社W・H (W・H Inc.)" },
   { label: "設立", value: "2008年4月" },
   { label: "代表取締役", value: "山田 太郎" },
   { label: "資本金", value: "3,000万円" },
@@ -179,7 +179,7 @@ export default function AccessPage() {
             </h2>
             <div className="space-y-5 text-foreground/75 leading-loose text-[15px]">
               <p>
-                本ウェブサイト (以下「本サイト」) は、W・H株式会社 (以下「当社」) が運営しています。本サイトをご利用になる際は、以下の規約を必ずお読みいただき、ご同意いただいた上でご利用ください。
+                本ウェブサイト (以下「本サイト」) は、株式会社W・H (以下「当社」) が運営しています。本サイトをご利用になる際は、以下の規約を必ずお読みいただき、ご同意いただいた上でご利用ください。
               </p>
               <p>
                 本サイトの掲載内容は、予告なく変更・中断・中止されることがあります。また、本サイトのコンテンツ、文章、画像等の著作権は、当社または原著作権者に帰属します。

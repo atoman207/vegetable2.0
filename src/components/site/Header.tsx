@@ -43,7 +43,7 @@ export const Header = () => {
           <Link href="/" className="group shrink-0">
             <img
               src={logoImage.src}
-              alt="W・H株式会社 ロゴ"
+              alt="株式会社W・H ロゴ"
               className="h-9 sm:h-11 md:h-14 w-auto"
             />
           </Link>

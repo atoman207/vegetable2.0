@@ -72,7 +72,7 @@ function buildContactEmailHtml(data: ContactPayload) {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>新しいお問い合わせ - W・H株式会社</title>
+  <title>新しいお問い合わせ - 株式会社W・H</title>
 </head>
 <body style="margin:0;padding:0;background:#f3f1ea;">
   <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#f3f1ea;font-family:'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,Arial,sans-serif;">

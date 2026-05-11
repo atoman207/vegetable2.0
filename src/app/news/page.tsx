@@ -34,7 +34,7 @@ export default function NewsPage() {
           ja="最新の"
           accentJa="お知らせ"
           tailJa="。"
-          description="出荷情報・会社情報・生産者便りなど、W・H株式会社からの最新の情報をお届けします。"
+          description="出荷情報・会社情報・生産者便りなど、株式会社W・Hからの最新の情報をお届けします。"
           breadcrumb={[{ label: "ニュース" }]}
           backgroundImage={pageHeroNews.src}
           backgroundAlt="新鮮な野菜原料の入荷"
